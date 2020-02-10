@@ -1,7 +1,7 @@
 {
-  "name": "mini-twitter",
+  "name": "File-store",
   "version": "1.0.0",
-  "description": "Serverless Mini-Twitter app",
+  "description": "File-store app",
   "dependencies": {
     "@types/axios": "^0.14.0",
     "@types/http-errors": "^1.6.1",
@@ -28,6 +28,5 @@
     "typescript": "^3.4.1",
     "webpack": "^4.29.6"
   },
-  "author": "Saleh Bakhit",
   "license": "MIT"
 }
